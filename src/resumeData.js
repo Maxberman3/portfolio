@@ -104,45 +104,54 @@ let resumeData = {
     },
     {
       "skillname": "CSS"
-    },
-    {
-      "skillname": "SASS"
-    },
-    {
-      "skillname": "SASS"
-    },
-    {
-      "skillname": "SASS"
-    },
-    {
-      "skillname": "SASS"
-    },
-    {
-      "skillname": "SASS"
-    },
-    {
-      "skillname": "SASS"
-    },
-    {
-      "skillname": "SASS"
     }
+    // ,
+    // {
+    //   "skillname": "SASS"
+    // },
+    // {
+    //   "skillname": "SASS"
+    // },
+    // {
+    //   "skillname": "SASS"
+    // },
+    // {
+    //   "skillname": "SASS"
+    // },
+    // {
+    //   "skillname": "SASS"
+    // },
+    // {
+    //   "skillname": "SASS"
+    // },
+    // {
+    //   "skillname": "SASS"
+    // }
   ],
   "portfolio": [
     {
-      "name": "TakeoutTruckStop",
+      "name": "Takeout TruckStop",
       "description": "Web Application",
       "imgurl": "images/portfolio/phone.jpg",
       "projectLink": "https://takeouttruckstop.herokuapp.com"
     },
     {
-      "name": "project2",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/project.jpg"
+      "name": "Now You Know",
+      "description": "Web Application",
+      "imgurl": "images/portfolio/project.jpg",
+      "projectLink": "https://github.com/Jberma23/NYk_FrontEnd"
     },
     {
-      "name": "project3",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/project2.png"
+      "name": "MPT3",
+      "description": "Web Application",
+      "imgurl": "images/portfolio/project2.png",
+      "projectLink": "https://github.com/Jberma23/MPT3_frontend"
+    },
+    {
+      "name": "My Pet Routine",
+      "description": "Web Application",
+      "imgurl": "images/portfolio/project3.jpg",
+      "projectLink": "https://github.com/Jberma23/MyPetsRoutine"
     }
   ],
   "testimonials": [
