@@ -76,7 +76,7 @@ let resumeData = {
       "Achievements": ["Utilized MDWare software to analyze and identify clients for marketing and client acquisition use", "Built and designed website and social media pages for new laser school initiatives", "Participated in customer service and client relations projects"]
     }
   ],
-  "skillsDescription": "Your skills here",
+  "skillsDescription": "",
   "skills": [
     {
       "skillname": "Ruby"
@@ -85,7 +85,10 @@ let resumeData = {
       "skillname": "Ruby on Rails"
     },
     {
-      "skillname": "Reactjs"
+      "skillname": "React"
+    },
+    {
+      "skillname": "Redux"
     },
     {
       "skillname": "JavaScript"
@@ -105,28 +108,28 @@ let resumeData = {
     {
       "skillname": "CSS"
     }
-    // ,
-    // {
-    //   "skillname": "SASS"
-    // },
-    // {
-    //   "skillname": "SASS"
-    // },
-    // {
-    //   "skillname": "SASS"
-    // },
-    // {
-    //   "skillname": "SASS"
-    // },
-    // {
-    //   "skillname": "SASS"
-    // },
-    // {
-    //   "skillname": "SASS"
-    // },
-    // {
-    //   "skillname": "SASS"
-    // }
+    ,
+    {
+      "skillname": "SQL"
+    },
+    {
+      "skillname": "Bootstrap"
+    },
+    {
+      "skillname": "Semantic UI"
+    },
+    {
+      "skillname": "JSON"
+    },
+    {
+      "skillname": "APIs"
+    },
+    {
+      "skillname": "AJAX"
+    },
+    {
+      "skillname": "Github"
+    }
   ],
   "portfolio": [
     {
