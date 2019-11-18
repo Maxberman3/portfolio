@@ -4,23 +4,27 @@ export default class ContactUs extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="contact">
-          <div className="row section-head">
-            <div className="ten columns">
-              <p className="lead">
+        <div className="row section-head">
+          <div className="ten columns">
+            <p className="lead">
               Feel free to contact me for any work or suggestions below
               </p>
+            <h4>
+              <a href="https://www.linkedin.com/in/jesse-berman-b0965715b/">LinkedIn</a>
+            </h4>
+            <h4>
+              <a href="jesse.ben.berman@gmail.com">Email</a>
+            </h4>
+          </div>
+        </div>
+        <div className="row">
+          <aside className="eigth columns footer-widgets">
+            <div className="widget">
+
             </div>
-          </div>
-          <div className="row">
-            <aside className="eigth columns footer-widgets">
-              <div className="widget">
-                <h4>Linked in :
-                  {resumeData.linkedinId}
-                </h4>
-              </div>
-            </aside>
-          </div>
-        </section>
-        );
+          </aside>
+        </div>
+      </section>
+    );
   }
 }
