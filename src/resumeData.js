@@ -159,12 +159,12 @@ let resumeData = {
   ],
   "testimonials": [
     {
-      "description": "This is a sample testimonial",
-      "name": "Some technical guy"
+      "description": "Jesse is consistently a helping hand and is hungry for knowledge",
+      "name": "Program Director"
     },
     {
-      "description": "This is a sample testimonial",
-      "name": "Some technical guy"
+      "description": "Jesse is a wonderful asset to any team. He is a hard-worker who is passionate and reliable. He takes the initiative to help out whenever and wherever need. I would happily rehire him when the opportunity presented itself",
+      "name": "Leah Schwartz, Previous Employer"
     }
   ]
 }
