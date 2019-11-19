@@ -160,7 +160,7 @@ let resumeData = {
   "testimonials": [
     {
       "description": "Jesse is consistently a helping hand and is hungry for knowledge",
-      "name": "Program Director"
+      "name": "Noa Havivi, Program Director"
     },
     {
       "description": "Jesse is a wonderful asset to any team. He is a hard-worker who is passionate and reliable. He takes the initiative to help out whenever and wherever need. I would happily rehire him when the opportunity presented itself",
