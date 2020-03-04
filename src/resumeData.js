@@ -1,10 +1,10 @@
 let resumeData = {
   "imagebaseurl": "",
-  "name": "Jesse Berman",
-  "role": "Full Stack Web Developer",
+  "name": "Max Berman",
+  "role": "Systems Engineer",
   "linkedinId": "jesse-berman-b0965715b",
   "skypeid": "Your skypeid",
-  "roleDescription": "I have always been intrigued by DIY or building projects that enabled me to express my creativity. I fell in love with Full stack development because it allows me to build programs from start to finish, innovate projects, and be creative.",
+  "roleDescription": "I've always been passionate about working on projects that offer technical challenges, while still giving you a chance to flex some creative muscle. For me, software development is a domain that offers a perfect blend of both.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -22,44 +22,29 @@ let resumeData = {
       "className": "fa fa-pencil"
     }
   ],
-  "aboutme": "I am a Full stack web developer with a passion for entrepreneurship and innovation. With experience in Ruby on Rails, JavaScript, and React and a background in economics, while I have always had a love for projects that allowed me to be creative I found my love for coding through my dream to one day be an entrepreneur. I bring strong skills in team-building and project management that help companies scale and grow.",
-  "address": "Arlington, VA",
+  "aboutme": "Having studied Systems Engineering, I now bring that same analytical approach and measured thinking to my role as a Software Engineer at Emerson's Automated Solutions, helping to design and build software products that are used around the world in process control.",
+  "address": "Charlottesville, VA",
   "website": "https://github.com/Jberma23",
   "education": [
     {
-      "UniversityName": "Flatiron School",
-      "specialization": "Software Engineering",
-      "MonthOfPassing": "October",
+      "UniversityName": "University of Virginia",
+      "specialization": "B.S. Systems Engineering, minor in Computer Science",
+      "MonthOfPassing": "July",
       "YearOfPassing": "2019"
     },
-    {
-      "UniversityName": "The University of Maryland",
-      "specialization": "Economics",
-      "MonthOfPassing": "May",
-      "YearOfPassing": "2019",
-      "Achievements": "Dean’s List Spring 2019, Study Abroad Internship in Guatemala, Summer 2018"
-    },
-    {
-      "UniversityName": "Montgomery College",
-      "specialization": "Business, General Studies",
-      "MonthOfPassing": "May",
-      "YearOfPassing": "2016",
-      "Achievements": "Dean’s List: Fall 2015 & Fall 2016"
-    }
   ],
   "work": [
     {
-      "CompanyName": "Off-Grid Adventure Vans",
-      "specialization": "Design & Creation Associate",
+      "CompanyName": "Emerson Automated Solutions",
+      "specialization": "Software Engineer",
       "MonthOfBeginning": "August",
-      "YearOfBeginning": "2018",
-      "MonthOfLeaving": "Jan",
-      "YearOfLeaving": "2019",
-      "Achievements": ["Created financial forecasts including inventory, budgetary logs, break-even, and profitability forecasts", "Assisted in $300,000+ worth of renovations", "Employed Sketchup in order to create 3-dimensional floor plans.", "Worked and coordinated with engineering and design teams to create conversion plans"]
+      "YearOfBeginning": "2019",
+      "MonthOfLeaving": "Present",
+      "Achievements": ["Built the back end for licensing management Software that is deployed worldwide with our process control solutions", "Contributed to the release of a security provisioning console to assist customers in implementing OPC-UA protocols in their operations.", "Involved in every step of the release process, from design to debugging to testing & release."]
     },
     {
-      "CompanyName": "Social Entrepreneur Corp",
-      "specialization": "Consulting Intern",
+      "CompanyName": "UVA Radio Oncology",
+      "specialization": "Computer Programmer",
       "MonthOfBeginning": "June",
       "YearOfBeginning": "2018",
       "MonthOfLeaving": "Aug",
