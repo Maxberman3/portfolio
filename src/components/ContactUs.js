@@ -13,7 +13,7 @@ export default class ContactUs extends Component {
               <a href="https://www.linkedin.com/in/jesse-berman-b0965715b/">LinkedIn</a>
             </h4>
             <h4>
-              <a href="jesse.ben.berman@gmail.com">Email</a>
+              <a href="maxberman3@gmail.com">Email</a>
             </h4>
           </div>
         </div>

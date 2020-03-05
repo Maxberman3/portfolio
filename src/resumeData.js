@@ -13,7 +13,7 @@ let resumeData = {
     },
     {
       "name": "github",
-      "url": "https://github.com/Jberma23",
+      "url": "https://github.com/maxberman3",
       "className": "fa fa-github"
     },
     {
@@ -24,7 +24,7 @@ let resumeData = {
   ],
   "aboutme": "Having studied Systems Engineering, I now bring that same analytical approach and measured thinking to my role as a Software Engineer at Emerson's Automated Solutions, helping to design and build software products that are used around the world in process control.",
   "address": "Charlottesville, VA",
-  "website": "https://github.com/Jberma23",
+  "website": "https://github.com/maxberman3",
   "education": [
     {
       "UniversityName": "University of Virginia",
@@ -45,111 +45,107 @@ let resumeData = {
     {
       "CompanyName": "UVA Radio Oncology",
       "specialization": "Computer Programmer",
-      "MonthOfBeginning": "June",
+      "MonthOfBeginning": "October",
       "YearOfBeginning": "2018",
-      "MonthOfLeaving": "Aug",
-      "YearOfLeaving": "2018",
-      "Achievements": ["Volunteered as a consultant to provide sustainable economic relief in poverty-stricken areas", "Updated and created new social media pages for marketing efforts", "Successfully created a grassroots fundraising campaign resulting in revenue of $500+ for non-profit organizations."]
+      "MonthOfLeaving": "February",
+      "YearOfLeaving": "2019",
+      "Achievements": ["Sole UVA located programmer dedicated to implementing Oncospace, a John Hopkins initiative for using big data to better prsecripe radiology treatment. ", "Built a contributing web application for the visualization, storage and presentation of UVA Oncology data to assist physicians across institutions with radiology prescription."]
     },
     {
-      "CompanyName": "Dulles Cosmetic Surgery and Skin Care",
-      "specialization": "Business & Marketing Intern",
-      "MonthOfBeginning": "July",
-      "YearOfBeginning": "2017",
-      "MonthOfLeaving": "May",
-      "YearOfLeaving": "2018",
-      "Achievements": ["Utilized MDWare software to analyze and identify clients for marketing and client acquisition use", "Built and designed website and social media pages for new laser school initiatives", "Participated in customer service and client relations projects"]
+      "CompanyName": "Long & Foster Real Estate, Edmund Ko Team",
+      "specialization": "Realtor & Sales Coordinator",
+      "MonthOfBeginning": "November",
+      "YearOfBeginning": "2014",
+      "MonthOfLeaving": "February",
+      "YearOfLeaving": "2017",
+      "Achievements": ["Responsible for marketing, showing, and coordination of 25+ listings, all of which closed during my time working here.", "Responsible for coordination and house tours for 25+ home buyers during my time here", "Conducted daily market research, helping to identify undervalued properties for our investors"]
+    },
+    {
+      "CompanyName": "Israel Defense Forces, Unit 212/Maglan",
+      "specialization": "Special Forces Operative",
+      "MonthOfBeginning": "August",
+      "YearOfBeginning": "2010",
+      "MonthOfLeaving": "August",
+      "YearOfLeaving": "2013",
+      "Achievements": ["Passed rigorous entrance testing to be selected as part of a small team of combat operatives", "Participated in the planning and execution stages of a wide variety of missions, including counter terrosim and covert actions"]
     }
   ],
   "skillsDescription": "",
   "skills": [
     {
-      "skillname": "Ruby"
+      "skillname": "C Sharp"
     },
     {
-      "skillname": "Ruby on Rails"
+      "skillname": "Python"
     },
     {
-      "skillname": "React"
+      "skillname": "Java"
     },
     {
-      "skillname": "Redux"
+      "skillname": "C and C Plus Plus"
     },
     {
-      "skillname": "JavaScript"
+      "skillname": "Go"
     },
     {
-      "skillname": "JQuery"
+      "skillname": "R"
     },
     {
-      "skillname": "Heroku"
+      "skillname": "Django"
     },
     {
-      "skillname": "AWS"
+      "skillname": "Flask"
     },
     {
-      "skillname": "HTML5"
+      "skillname": "ASP Core"
     },
     {
-      "skillname": "CSS"
+      "skillname": "Azure Web Services"
+    }
+    {
+      "skillname": "SciKit Learn and Machine Learning"
     }
     ,
     {
-      "skillname": "SQL"
+      "skillname": "SQL and ORMs"
     },
     {
-      "skillname": "Bootstrap"
+      "skillname": "Minitab"
     },
     {
-      "skillname": "Semantic UI"
+      "skillname": "Pandas"
     },
     {
-      "skillname": "JSON"
-    },
-    {
-      "skillname": "APIs"
-    },
-    {
-      "skillname": "AJAX"
-    },
-    {
-      "skillname": "Github"
+      "skillname": "Tableu and Data Vizualization"
     }
   ],
   "portfolio": [
     {
-      "name": "Takeout TruckStop",
+      "name": "Festy Scout",
       "description": "Web Application",
-      "imgurl": "images/portfolio/phone.jpg",
-      "projectLink": "https://takeouttruckstop.herokuapp.com"
+      "imgurl": "images/portfolio/phone.jpg UPDATE",
+      "projectLink": "https://festyscout.herokuapp.com"
     },
     {
-      "name": "Now You Know",
-      "description": "Web Application",
-      "imgurl": "images/portfolio/project.jpg",
-      "projectLink": "https://github.com/Jberma23/NYk_FrontEnd"
+      "name": "Emerson License Manager",
+      "description": "Desktop Licensing Manager",
+      "imgurl": "images/portfolio/project.jpg UPDATE",
     },
     {
-      "name": "MPT3",
-      "description": "Web Application",
-      "imgurl": "images/portfolio/project2.png",
-      "projectLink": "https://github.com/Jberma23/MPT3_frontend"
-    },
-    {
-      "name": "My Pet Routine",
-      "description": "Web Application",
-      "imgurl": "images/portfolio/project3.jpg",
-      "projectLink": "https://github.com/Jberma23/MyPetsRoutine"
+      "name": "Active Learning Classifier for Static Analysis Alerts",
+      "description": "Research Paper submitted for IEEE Conference",
+      "imgurl": "images/portfolio/project2.png UPDATE",
+      "projectLink": "UPDATE"
     }
   ],
-  "testimonials": [
+  "References": [
     {
-      "description": "Jesse is consistently a helping hand and is hungry for knowledge",
+      "description": "Jesse is consistently a helping hand and is hungry for knowledge UPDATE",
       "name": "Noa Havivi, Program Director"
     },
     {
-      "description": "Jesse is a wonderful asset to any team. He is a hard-worker who is passionate and reliable. He takes the initiative to help out whenever and wherever need. I would happily rehire him when the opportunity presented itself",
-      "name": "Leah Schwartz, Previous Employer"
+      "description": "Jesse is a wonderful asset to any team. He is a hard-worker who is passionate and reliable. He takes the initiative to help out whenever and wherever need. I would happily rehire him when the opportunity presented itself UPDATE",
+      "name": "Leah Schwartz, Previous Employer UPDATE"
     }
   ]
 }
