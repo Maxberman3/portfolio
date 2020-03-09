@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Systems Engineer",
   "linkedinId": "jesse-berman-b0965715b",
   "skypeid": "Your skypeid",
-  "roleDescription": "I've always been passionate about working on projects that offer technical challenges, while still giving you a chance to flex some creative muscle. For me, software development is a domain that offers a perfect blend of both.",
+  "roleDescription": " I've always been passionate about working on projects that offer technical challenges, while still giving you a chance to flex some creative muscle. For me, software development offers a perfect blend of both.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -49,7 +49,7 @@ let resumeData = {
       "YearOfBeginning": "2018",
       "MonthOfLeaving": "February",
       "YearOfLeaving": "2019",
-      "Achievements": ["Sole UVA located programmer dedicated to implementing Oncospace, a John Hopkins initiative for using big data to better prsecripe radiology treatment. ", "Built a contributing web application for the visualization, storage and presentation of UVA Oncology data to assist physicians across institutions with radiology prescription."]
+      "Achievements": ["Sole UVA located programmer dedicated to implementing Oncospace, a John Hopkins initiative for using big data to better prsecripe radiology treatment. ", "Built a contributing web application for the visualization, storage and presentation of UVA Oncology data to assist physicians across institutions with radiology prescription.","Worked with front end Javascript, and back end golang."]
     },
     {
       "CompanyName": "Long & Foster Real Estate, Edmund Ko Team",
@@ -58,7 +58,7 @@ let resumeData = {
       "YearOfBeginning": "2014",
       "MonthOfLeaving": "February",
       "YearOfLeaving": "2017",
-      "Achievements": ["Responsible for marketing, showing, and coordination of 25+ listings, all of which closed during my time working here.", "Responsible for coordination and house tours for 25+ home buyers during my time here", "Conducted daily market research, helping to identify undervalued properties for our investors"]
+      "Achievements": ["Responsible for marketing, showing, and coordination of 25+ listings, all of which closed during my time working here.", "Responsible for coordination and house tours for 25+ home buyers during my time here", "Conducted daily market research, helping to identify undervalued properties for our investors."]
     },
     {
       "CompanyName": "Israel Defense Forces, Unit 212/Maglan",
@@ -67,7 +67,7 @@ let resumeData = {
       "YearOfBeginning": "2010",
       "MonthOfLeaving": "August",
       "YearOfLeaving": "2013",
-      "Achievements": ["Passed rigorous entrance testing to be selected as part of a small team of combat operatives", "Participated in the planning and execution stages of a wide variety of missions, including counter terrosim and covert actions"]
+      "Achievements": ["Passed rigorous entrance testing to be selected as part of a small team of combat operatives", "Participated in the planning and execution stages of a wide variety of missions, including counter terrosim and covert actions","Earned a unit commendation and was honorably discharged."]
     }
   ],
   "skillsDescription": "",
@@ -101,7 +101,7 @@ let resumeData = {
     },
     {
       "skillname": "Azure Web Services"
-    }
+    },
     {
       "skillname": "SciKit Learn and Machine Learning"
     }
@@ -116,7 +116,7 @@ let resumeData = {
       "skillname": "Pandas"
     },
     {
-      "skillname": "Tableu and Data Vizualization"
+      "skillname": "Tableu and Data Visualization"
     }
   ],
   "portfolio": [
