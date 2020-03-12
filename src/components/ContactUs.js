@@ -10,7 +10,7 @@ export default class ContactUs extends Component {
               Feel free to contact me for any work or suggestions below
               </p>
             <h4>
-              <a href="https://www.linkedin.com/in/jesse-berman-b0965715b/">LinkedIn</a>
+              <a href="https://www.linkedin.com/in/max-berman/">LinkedIn</a>
             </h4>
             <h4>
               <a href="maxberman3@gmail.com">Email</a>

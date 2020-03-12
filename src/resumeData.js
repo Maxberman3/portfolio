@@ -2,13 +2,13 @@ let resumeData = {
   "imagebaseurl": "",
   "name": "Max Berman",
   "role": "Systems Engineer",
-  "linkedinId": "jesse-berman-b0965715b",
+  "linkedinId": "max-berman",
   "skypeid": "Your skypeid",
   "roleDescription": " I've always been passionate about working on projects that offer technical challenges, while still giving you a chance to flex some creative muscle. For me, software development offers a perfect blend of both.",
   "socialLinks": [
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com/in/jesse-berman-b0965715b",
+      "url": "https://www.linkedin.com/in/max-berman",
       "className": "fa fa-linkedin"
     },
     {
@@ -17,9 +17,9 @@ let resumeData = {
       "className": "fa fa-github"
     },
     {
-      "name": "blog",
-      "url": "https://medium.com/@jesse.ben.berman",
-      "className": "fa fa-pencil"
+      "name": "email",
+      "url": "mailto:maxberman3@gmail.com",
+      "className": "fa fa-envelope"
     }
   ],
   "aboutme": "Having studied Systems Engineering, I now bring that same analytical approach and measured thinking to my role as a Software Engineer at Emerson's Automated Solutions, helping to design and build software products that are used around the world in process control.",
@@ -123,19 +123,18 @@ let resumeData = {
     {
       "name": "Festy Scout",
       "description": "Web Application",
-      "imgurl": "images/portfolio/phone.jpg UPDATE",
+      "imgurl": "images/portfolio/project.png",
       "projectLink": "https://festyscout.herokuapp.com"
     },
     {
       "name": "Emerson License Manager",
       "description": "Desktop Licensing Manager",
-      "imgurl": "images/portfolio/project.jpg UPDATE",
+      "imgurl": "images/portfolio/project2.png",
     },
     {
       "name": "Active Learning Classifier for Static Analysis Alerts",
       "description": "Research Paper submitted for IEEE Conference",
-      "imgurl": "images/portfolio/project2.png UPDATE",
-      "projectLink": "UPDATE"
+      "imgurl": "images/portfolio/project3.png",
     }
   ],
   "References": [
