@@ -138,13 +138,13 @@ let resumeData = {
     }
   ],
   "References": [
+    // {
+    //   "description": "A solid, consistent contributor to the team, Max has been an integral part of our team at Emerson",
+    //   "name": "Mike Yoensky, Software Architect"
+    // },
     {
-      "description": "Jesse is consistently a helping hand and is hungry for knowledge UPDATE",
-      "name": "Noa Havivi, Program Director"
-    },
-    {
-      "description": "Jesse is a wonderful asset to any team. He is a hard-worker who is passionate and reliable. He takes the initiative to help out whenever and wherever need. I would happily rehire him when the opportunity presented itself UPDATE",
-      "name": "Leah Schwartz, Previous Employer UPDATE"
+      "description": "Max was a dedicated worker, an enthusiastic individual who brought his best everyday, and someone who I always enjoyed working with",
+      "name": "Edmund Ko, Former Employer"
     }
   ]
 }
