@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Systems Engineer",
   "linkedinId": "max-berman",
   "skypeid": "Your skypeid",
-  "roleDescription": " I've always been passionate about working on projects that offer technical challenges, while still giving you a chance to flex some creative muscle. For me, software development offers a perfect blend of both.",
+  "roleDescription": " I've always been passionate about working on projects that offer technical challenges, while still giving you a chance to be creative. For me, software development offers a perfect blend of both.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -130,18 +130,20 @@ let resumeData = {
       "name": "Emerson License Manager",
       "description": "Desktop Licensing Manager",
       "imgurl": "images/portfolio/project2.png",
+      "projectLink":"/#about"
     },
     {
       "name": "Active Learning Classifier for Static Analysis Alerts",
       "description": "Research Paper submitted for IEEE Conference",
       "imgurl": "images/portfolio/project3.png",
+      "projectLink":"https://drive.google.com/open?id=1sIr7dZb-3gfk9YU28kZNlLOuZLNkSPAg"
     }
   ],
-  "References": [
-    // {
-    //   "description": "A solid, consistent contributor to the team, Max has been an integral part of our team at Emerson",
-    //   "name": "Mike Yoensky, Software Architect"
-    // },
+  "testimonials": [
+    {
+      "description": "A solid, consistent contributor to the team, Max has been an integral part of our work at Emerson",
+      "name": "Mike Yoensky, Software Architect"
+    },
     {
       "description": "Max was a dedicated worker, an enthusiastic individual who brought his best everyday, and someone who I always enjoyed working with",
       "name": "Edmund Ko, Former Employer"
