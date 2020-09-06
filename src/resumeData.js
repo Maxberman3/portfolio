@@ -136,7 +136,7 @@ let resumeData = {
       "name": "Active Learning Classifier for Static Analysis Alerts",
       "description": "Research Paper submitted for IEEE Conference",
       "imgurl": "images/portfolio/project3.png",
-      "projectLink":"https://drive.google.com/open?id=1sIr7dZb-3gfk9YU28kZNlLOuZLNkSPAg"
+      "projectLink":"https://ieeexplore.ieee.org/abstract/document/8999299"
     }
   ],
   "testimonials": [
