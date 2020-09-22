@@ -23,7 +23,7 @@ let resumeData = {
     }
   ],
   "aboutme": "Having studied Systems Engineering, I now bring that same analytical approach and measured thinking to my role as a Software Engineer at Emerson's Automated Solutions, helping to design and build software products that are used around the world in process control.",
-  "address": "Charlottesville, VA",
+  "address": "Tel Aviv, Israel",
   "website": "https://github.com/maxberman3",
   "education": [
     {
