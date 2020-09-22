@@ -341,12 +341,12 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: photoshop 2s ease;
 }
 .candcplusplus{
-   width: 50%;
+   width: 70%;
    -moz-animation: photoshop 2s ease;
    -webkit-animation: photoshop 2s ease;
 }
 .go{
-   width: 40%;
+   width: 35%;
    -moz-animation: photoshop 2s ease;
    -webkit-animation: photoshop 2s ease;
 }
@@ -377,7 +377,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: css 2s ease;
 }
 .scikitlearnandmachinelearning {
-  	width: 70%;
+  	width: 65%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
@@ -387,7 +387,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 .minitab {
-   width: 95%;
+   width: 90%;
    -moz-animation: jquery 2s ease;
    -webkit-animation: jquery 2s ease;
 }
