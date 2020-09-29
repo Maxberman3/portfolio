@@ -117,6 +117,9 @@ let resumeData = {
     },
     {
       "skillname": "Tableu and Data Visualization"
+    },
+    {
+      "skillname": "JavaScript-React"
     }
   ],
   "portfolio": [
